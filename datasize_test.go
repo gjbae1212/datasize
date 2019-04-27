@@ -3,7 +3,7 @@ package datasize_test
 import (
 	"testing"
 
-	. "github.com/c2h5oh/datasize"
+	. "github.com/gjbae1212/datasize"
 )
 
 func TestMarshalText(t *testing.T) {

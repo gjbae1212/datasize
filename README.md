@@ -1,7 +1,20 @@
-# datasize [![Build Status](https://travis-ci.org/c2h5oh/datasize.svg?branch=master)](https://travis-ci.org/c2h5oh/datasize)
+# datasize
+
+<p align="left"> 
+ <a href="https://circleci.com/gh/gjbae1212/datasize"><img src="https://circleci.com/gh/gjbae1212/datasize.svg?style=svg"></a>
+ <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-GREEN.svg" alt="license" /></a>
+ <a href="https://goreportcard.com/report/github.com/gjbae1212/datasize"><img src="https://goreportcard.com/badge/github.com/gjbae1212/datasize" alt="Go Report Card" /></a>
+ <a href="https://codecov.io/gh/gjbae1212/datasize"><img src="https://codecov.io/gh/gjbae1212/datasize/branch/master/graph/badge.svg" /></a> 
+</p>
+ 
 
 Golang helpers for data sizes
 
+This project has originally been provided as https://github.com/c2h5oh/datasize.
+
+But it is newly modified by gjbae1212 because supporting essential demands same as golang version should deal with. 
+
+This forked project is following the MIT.
 
 ### Constants
 Just like `time` package provides `time.Second`, `time.Day` constants `datasize` provides:
